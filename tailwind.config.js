@@ -8,7 +8,9 @@ module.exports = {
   ],
   theme: {
     extend: {
-     
+      colors: {
+        primary: ({ opacityValue }) => `rgba(var(--primary), ${opacityValue})`, 
+      }
     },
   },
   plugins: [],
