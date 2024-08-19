@@ -1,39 +1,30 @@
-import { Meta, Canvas, Primary, Controls } from '@storybook/blocks';
+import { Meta, Canvas, Primary, Controls } from '@storybook/blocks'
 
-import * as Story from './Input.stories';
+import * as Story from './Input.stories.ts'
 
-<Meta of={ Story } />
+<Meta of={Story} />
 
-# Entrada de texto
+# Entrada de Texto
 
-Este e o componente de Input utilizado para receber dados do usuário via texto.
+Este é o componente de input, utilizado para receber dados do usuário via texto.
 
 ### Primário
-<Canvas of={ Story.Primary } />
-
+<Canvas of={Story.Primary} />
 ### Primário Desabilitado
-<Canvas of={ Story.PrimaryDisabled } />
-
+<Canvas of={Story.PrimaryDisabled} />
 ### Multilinhas
-<Canvas of={ Story.Multiline } />
-
+<Canvas of={Story.Multiline} />
 ### Multilinhas Desabilitado
-<Canvas of={ Story.MultilineDisabled } /> 
-
+<Canvas of={Story.MultilineDisabled} />
 ### Primário com Label
-<Canvas of={ Story.PrimaryLabel } />
-
-### Primário desabilitado com Label
-<Canvas of={ Story.PrimaryLabelDisabled } />
-
+<Canvas of={Story.PrimaryLabel} />
+### Primário Desabilitado com Label
+<Canvas of={Story.PrimaryLabelDisabled} />
 ### Multilinhas com Label
-<Canvas of={ Story.MultilineLabel } />
+<Canvas of={Story.MultilineLabel} />
+### Multilinhas Desabilitado com Label
+<Canvas of={Story.MultilineLabelDisabled} />
 
-### Multilinhas desabilitado com Label
-<Canvas of={ Story.MultilineLabelDisabled } />
-
-
-## Documentaçao interativa
-
+## Documentação Interativa
 <Primary />
 <Controls />

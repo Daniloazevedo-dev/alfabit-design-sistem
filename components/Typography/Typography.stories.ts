@@ -1,3 +1,4 @@
+// Typography.stories.ts
 import { Meta, StoryObj } from "@storybook/react";
 
 import Typography, { type TypographyProps } from "./Typography";
