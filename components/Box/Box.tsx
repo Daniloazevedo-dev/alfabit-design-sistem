@@ -1,5 +1,5 @@
 import classNames from "classnames";
-import React, { Children } from "react";
+import React from "react";
 
 export type BoxProps = {
     rounded?: boolean;
