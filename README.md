@@ -29,7 +29,3 @@ O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/h86gU
 ## 🛠️ Abrir e rodar o projeto
 
 Após clonar ou baixar o projeto, instale as dependências, abra na sua IDE favorita (eu recomendo o VS Code) e digite no terminal `npm run storybook` e acesse a url mostrada no terminal.
-
-## 📚 Mais informações do curso
-
-O design system da Alfabit é uma abordagem abrangente e estruturada que reúne diretrizes, padrões e componentes de design em um conjunto coeso. Essa iniciativa permite que a empresa crie produtos digitais com uma identidade visual unificada, oferecendo uma experiência do usuário excepcionalmente intuitiva e agradável.
