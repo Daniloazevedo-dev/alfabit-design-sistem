@@ -1,5 +1,3 @@
-![3172 - React: Evolua seu Design System com Tailwind](thumb.png)
-
 # Alfabit
 
 A Alfabit é uma inovadora empresa de tecnologia dedicada a fornecer soluções criativas e eficientes para seus clientes. Reconhecendo a importância do design consistente e intuitivo em todas as suas plataformas e produtos, a Alfabit decidiu investir em um design system de ponta.
@@ -16,9 +14,7 @@ $ yarn add
 
 O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/h86gUvqUXTKwgr6tVYinLT/React%3A-Design-System-com-Tailwind?type=design&node-id=0-1&t=GuaFV9cp30SS2di9-0).
 
-## ✔️ Técnicas e tecnologias utilizadas
-
-Se liga nessa lista de tudo que usaremos nesse curso:
+## ✔️ Tecnologias utilizadas
 
 - `React`
 - `Next js`
@@ -29,8 +25,6 @@ Se liga nessa lista de tudo que usaremos nesse curso:
 - `classnames`
 - `GitHub`
 - `Figma`
-
-E muito mais!
 
 ## 🛠️ Abrir e rodar o projeto
 
